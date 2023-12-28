@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alberth084
 - 👀 I’m interested in tecnologia
-- 🌱 I’m currently learning html, css e javascript
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on non-profit projects
 - 📫 How to reach me on instagram _alberth.js 
 
