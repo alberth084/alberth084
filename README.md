@@ -49,15 +49,7 @@ Me chamo Alberth Rikelmy, tenho 20 anos e sou natural do Rio Grande do Norte.  A
 
 
 
-
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
+>
 <img 
     align="left" 
     alt="Git" 
